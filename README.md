@@ -16,9 +16,11 @@ A simple full-stack user authentication system built using React, Node.js, Expre
 - Security: bcryptjs
 
 ## 📂 Project Structure
+```
 UserAuth/
 │── backend/
 │── frontend/
+```
 
 ## ▶️ How to Run
 
