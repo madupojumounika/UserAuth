@@ -46,7 +46,7 @@ function Signup() {
 
         <div className="badge">Secure Authentication</div>
 
-        <h1>Create Account 🚀</h1>
+        <h1>Create Account</h1>
         <p>Join our platform today</p>
 
         <form onSubmit={handleSubmit}>

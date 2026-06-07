@@ -45,7 +45,7 @@ function Login() {
 
         <div className="badge">Secure Authentication</div>
 
-        <h1>Welcome Back 👋</h1>
+        <h1>Welcome Back</h1>
         <p>Login to continue</p>
 
         <form onSubmit={handleSubmit}>
